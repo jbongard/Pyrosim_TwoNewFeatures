@@ -122,5 +122,9 @@
 
 ### Next steps.
 
-Now you can start making robots [here](https://www.reddit.com/r/ludobots/wiki/pyrosim/simulation), starting at step #3.
+At the command line, type
+
+```
+python geneticAlgorithm.py
+```
 
